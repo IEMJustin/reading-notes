@@ -15,6 +15,7 @@ Although it has many uses for editing text, it will also allow for other things 
 * Creating task lists
 
 ** Links **
+
 [Markdown Basics](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
 
 
