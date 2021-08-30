@@ -1,5 +1,7 @@
 ### Reading Notes 102
 
+[GitHub Profile](https://github.com/IEMJustin)
+
 Hello Everyone!
 I go by Justin and I am excited to start this career path with coding.
 
