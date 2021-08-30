@@ -12,10 +12,6 @@ Although it has many uses for editing text, it will also allow for other things 
 * **Emphasizing(Bold)**
 * Structured Documenting/Heading
 * Running Codes
+* Creating task lists
 
-'''
-func Example() {
-
-return 'Hello World'
-'''
 
