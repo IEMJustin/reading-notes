@@ -4,7 +4,7 @@ Markdown presents itself as a more user-friendly style of syntax on GitHub. It's
 Although it has many uses for editing text, it will also allow for other things such as adding images and tables as well.
 
 
-**Uses for Markdown**
+**Key Concepts**
 * Numbered Lists/Bulletpoints
 * Unordered/Ordered Lists
 * Images
