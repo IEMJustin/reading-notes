@@ -3,8 +3,8 @@
 ### Reading Notes 102
 
 
-Hello Everyone!
-I go by Justin and I am excited to start this career path with coding.
+Hello, my name is Justin.
+I was a redpatch in the Marine Corps and am looking forward to growing within this career field.
 
 **Growth Mindset**
 
@@ -15,3 +15,13 @@ I go by Justin and I am excited to start this career path with coding.
 - [x] Stay humble to allow for an easier time absorbing information
 - [x] Take breaks
 - [ ] ~~Load up on caffeine~~ 
+
+### Table of Contents
+- Reading 1 [Markdown](https://iemjustin.github.io/reading-notes/Learning-Markdown)
+- Reading 2 [Coders_Comp](https://iemjustin.github.io/reading-notes/Text-Editor)
+- Reading 3 [Revisions](https://iemjustin.github.io/reading-notes/revisionandcloud)
+- Reading 4 
+- Reading 5
+- Reading 6
+- Reading 7
+- Reading 8
