@@ -4,9 +4,7 @@
 ### Wireframe and Design
 
 The importance of a Wireframe drastically helps with the process to creating a web page.
-
 It allows a programmer to brainstorm the webpage in a more organized fashion by giving it a physical image.
-
 When creating a Wireframe the programmer must also decide on what would be more appealing based on what the webpage is for.
 
 
@@ -26,5 +24,4 @@ HTML is made up of the elements listed below.
 ### Semantics
 
 Semantics refer to the meaning of a piece of code.
-
 Semantic elements contain number around 100 elements available and have many uses within HTML.
