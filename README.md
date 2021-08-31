@@ -20,8 +20,8 @@ I was a redpatch in the Marine Corps and am looking forward to starting and grow
 - Reading 1 [Markdown](https://iemjustin.github.io/reading-notes/Learning-Markdown)
 - Reading 2 [Coders_Comp](https://iemjustin.github.io/reading-notes/Text-Editor)
 - Reading 3 [Revisions](https://iemjustin.github.io/reading-notes/revisionandcloud)
-- Reading 4 
-- Reading 5
-- Reading 6
-- Reading 7
-- Reading 8
+- Reading 4 [Structuring_Webpage]
+- Reading 5 [Design_CSS]
+- Reading 6 [Design_Java]
+- Reading 7 [Program_Java]
+- Reading 8 [Operators_Loops]
