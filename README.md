@@ -4,7 +4,7 @@
 
 
 Hello, my name is Justin.
-I was a redpatch in the Marine Corps and am looking forward to growing within this career field.
+I was a redpatch in the Marine Corps and am looking forward to starting and growing within this career field.
 
 **Growth Mindset**
 
