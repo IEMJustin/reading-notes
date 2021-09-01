@@ -14,9 +14,17 @@ Most browsers have full compatibilty  with CSS except Internet Explorer.
 Few browsers have compatibility issues based on bugs from previous version but most up to date browsers have been able to allow for compatibility.
 
 ### Code Samples
->     h1 {
- >   color: red;
- >   font-size: 5em;
-}
+<blockquote     
 
-> align-self: start;
+h1 {
+
+   color: red;
+
+   font-size: 5em;
+   
+} 
+
+</blockquote>
+
+
+<blockquote> align-self: start;
