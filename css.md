@@ -2,10 +2,6 @@
 <head>
  <h1>CSS</h1>
  </head>
- <style>
-     div {
-     background-color: grey;
-     }
 
 <body> 
 
@@ -22,9 +18,7 @@ Although CSS is useful with customizing a webpage they do have limitations depen
 Most browsers have full compatibilty  with CSS except Internet Explorer.
 Few browsers have compatibility issues based on bugs from previous version but most up to date browsers have been able to allow for compatibility.
 
-<h2> Code Samples </h2>
-<blockquote     
-
+<h2> Code Samples </h2>    
 h1 {
 
    color: red;
@@ -40,3 +34,8 @@ h1 {
 
 </body>
 </html>
+
+ <style>
+     div {
+     background-color: grey;
+     }
