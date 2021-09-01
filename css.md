@@ -2,8 +2,13 @@
 <head>
  <h1>CSS</h1>
  </head>
+ <style>
+     div {
+     background-color: grey;
+     }
 
-<body style="bacground-color:grey">
+<body> 
+
 <h2> Cascading Style Sheets </h2>
 
 CSS is highly useful in customizing ones own webpage via placement and color control.
@@ -34,3 +39,4 @@ h1 {
 <blockquote> align-self: start;
 
 </body>
+</html>
