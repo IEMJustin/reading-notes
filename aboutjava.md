@@ -20,10 +20,3 @@ Javascript has no distinction between types of objects and variable data types a
 > Equal x == y
 > Strict not equal !==
 > Remainder (%)
-=======
-- > Assignment x = y
-- > Greater than or equal to x >= y
-- > Equal x == y
-- > Strict not equal !==
-- > Remainder (%)
->>>>>>> 0160ae73b9370e3555980eb34f2fe298560cad28
