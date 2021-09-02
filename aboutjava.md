@@ -1,5 +1,3 @@
-# About Javascript
-
 # A little about Javascript
 
 Javascript is a lightweight compiled programming language with a lot of great functions.
@@ -14,9 +12,8 @@ Javascript has no distinction between types of objects and variable data types a
 
 ## A few operators
 
-<<<<<<< HEAD
-> Assignment x = y
-> Greater than or equal to x >= y
-> Equal x == y
-> Strict not equal !==
-> Remainder (%)
+- Assignment x = y
+- Greater than or equal to x >= y
+- Equal x == y
+- Strict not equal !==
+- Remainder (%)
