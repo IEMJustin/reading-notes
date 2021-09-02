@@ -1,8 +1,3 @@
-# About Javascript
-
-
-
-
 # A little about Javascript
 
 Javascript is a lightweight compiled programming language with a lot of great functions.
