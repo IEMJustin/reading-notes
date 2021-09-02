@@ -47,7 +47,7 @@ Assignments have return values which can be retrieved.
 
 Shown above the return value matches the expression to the right of the = sign.
 Return value are based on the operands prior to the operation.
-In case of logical assignment, (x &&=y),(x ||= y), and (x ??=y)
+In case of logical assignment, (x &&=y),(x ||= y), and (x ??=y).
 The return value is that of the logical operation with out the assignment.
 
 ### Expressions
