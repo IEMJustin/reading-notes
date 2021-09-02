@@ -23,5 +23,5 @@ I was a redpatch in the Marine Corps and am looking forward to starting and grow
 - Reading 4 [Structuring_Webpage](https://iemjustin.github.io/reading-notes/structuring_webpage)
 - Reading 5 [Design_CSS](https://iemjustin.github.io/reading-notes/css)
 - Reading 6 [Design_Java](https://iemjustin.github.io/reading-notes/aboutjava)
-- Reading 7 [Program_Java]
+- Reading 7 [Program_Java](https://iemjustin.github.io/reading-notes/projs)
 - Reading 8 [Operators_Loops]
