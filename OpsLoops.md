@@ -49,7 +49,8 @@ The types of loops are plentiful and can function differently during their cycle
 > It would look similar to the example below
 
 > for (variable in object)
-    statement
+
+>    statement
 
 #### for...of statement
 - The for...of statement creates a loop iterating over multiple iterable objects
