@@ -17,8 +17,7 @@ I was a redpatch in the Marine Corps and I am looking forward to growing within 
 - [ ] ~~Load up on caffeine~~ 
 
 ### Table of Contents
-- Reading 1 [Growth](https://iemjustin.github.io/reading-notes/growth)
-- Reading 1 Continued..[Markdown](https://iemjustin.github.io/reading-notes/Learning-Markdown)
+- Reading 1 [Growth](https://iemjustin.github.io/reading-notes/growth) & [Markdown](https://iemjustin.github.io/reading-notes/Learning-Markdown)
 - Reading 2 [Coders_Comp](https://iemjustin.github.io/reading-notes/Text-Editor)
 - Reading 3 [Revisions](https://iemjustin.github.io/reading-notes/revisionandcloud)
 - Reading 4 [Structuring_Webpage](https://iemjustin.github.io/reading-notes/structuring_webpage)
