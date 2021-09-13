@@ -19,7 +19,7 @@ I was a redpatch in the Marine Corps and I am looking forward to growing within 
 ### Code 201 Reading Notes
 
 #### Course 201
-- Reading 1 [Intro_to_HTML/JavaScript]
+- Reading 1 [Intro_to_HTML/JavaScript](https://iemjustin.github.io/reading-notes/class-01)
 
 - Reading 2 [HTML_Text,CSS_Intro,Basic_JavaScript_Instructions]
 
