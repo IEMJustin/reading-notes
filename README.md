@@ -1,4 +1,4 @@
-[GitHub Profile](https://github.com/IEMJustin)
+> [Justin's GitHub Profile](https://github.com/IEMJustin)
 
 Hello, my name is Justin.
 I was a redpatch in the Marine Corps and I am looking forward to growing within this career field.
