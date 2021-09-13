@@ -47,3 +47,8 @@ Another way to view these 3 would be..
 >Javascript as the interactive aspects.
 
 Utilizing all 3 will also allow for a more organized view when attempting to work on the webpage itself.
+
+***
+## References
+> JAVASCRIPT & JQUERY by Jon Duckett
+> HTML&CSS by Jon Duckett
