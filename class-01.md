@@ -22,3 +22,25 @@ Iframes allow the user to display another page within the page such as displayin
 Block Elements will appear on a new line while Inline Elements will appear to continue on the same line.
 DOCTYPES will allow your browser to know which version of HTML you are inputting.
 
+### HTML5 Layout
+
+The visual appearance of a webpage plays a huge role.
+If the layout is overloaded with a massive amount of visuals, the user experiences could turn out to be very unsatisfactory.
+While a webpage that doesn't have enough to make it standout, would have a similar unsatisfactory experience.
+
+A good practice would be to create a framework for a webpage.
+A framework is basically the "skeleton" of a webpage's structure.
+It allows for the developer to easily organize and visualize the webpage before creating the actual webpage.
+Another factor for the layout of a webpage is demographics.
+Appealing to the users that create the most traffic through the webpage would be most beneficial.
+
+### Getting down to the ABC's of Programming
+
+A webpage can typically be made up of HTML, CSS, and JavaScript.
+Another way to view these 3 would be.. 
+> HTML as the structure
+
+> CSS as the visual designs
+
+>Javascript as the interactive aspects.
+Utilizing all 3 will also allow for a more organized view when attempting to work on the webpage itself.
