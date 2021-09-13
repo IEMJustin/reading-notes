@@ -50,5 +50,6 @@ Utilizing all 3 will also allow for a more organized view when attempting to wor
 
 ***
 ## References
-> JAVASCRIPT & JQUERY by Jon Duckett
-> HTML&CSS by Jon Duckett
+
+- JAVASCRIPT & JQUERY by Jon Duckett
+- HTML&CSS by Jon Duckett
