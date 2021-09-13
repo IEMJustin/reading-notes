@@ -37,10 +37,13 @@ Appealing to the users that create the most traffic through the webpage would be
 ### Getting down to the ABC's of Programming
 
 A webpage can typically be made up of HTML, CSS, and JavaScript.
+
 Another way to view these 3 would be.. 
+
 > HTML as the structure
 
 > CSS as the visual designs
 
 >Javascript as the interactive aspects.
+
 Utilizing all 3 will also allow for a more organized view when attempting to work on the webpage itself.
