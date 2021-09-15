@@ -123,6 +123,29 @@ Border styles are limited to 8 different styles \(nine if you count the hidden o
 
 <br>
 
+## ARRAYS
+
+An Array is a special type of variable that stores multiple values. <br>
+One method to create an Array a user must create a variable with a name and place values within a pair of square brackets. <br
+Accessing values in an Array would be similar to an ordered list starting at 0. <br>
+
+## IF STATEMENTS
+If statements will check a condition. <br>
+If the condition is met any statements following in the subsequent code block will be executed. <br>
+
+## IF ELSE STATEMENTS
+If else statements almost function just like if statements but the difference is if the condition is false. <br>
+If the condition turns out false the second code block would be ran instead.
+
+## SWITCH STATEMENTS
+A switch statements starts with a variable that is defined as the switch value. <br>
+There are multiple code blocks that can be selected to run depending on the level that depends on the switch value. <br>
+
+## LOOPING
+Loops check a condition and if it returns true they run a code block. <br>
+It repeats this process until the condition returns false. <br>
+There are 3 loops which are for, while, and do...while. <br>
+
 ## References
 - HTML&CSS by Jon Duckett
 - JAVASCRIPT & JQUERY by Jon Duckett
