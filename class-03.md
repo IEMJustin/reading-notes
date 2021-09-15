@@ -120,3 +120,9 @@ Border styles are limited to 8 different styles \(nine if you count the hidden o
 - inset
 - outset
 - hidden or none
+
+<br>
+
+## References
+- HTML&CSS by Jon Duckett
+- JAVASCRIPT & JQUERY by Jon Duckett
