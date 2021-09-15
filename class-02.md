@@ -1,5 +1,7 @@
 # BASICS OF HTML, CSS & JS
 
+
+![memes](https://i.ibb.co/M79jV7B/variable.jpg)
 ### JavaScript
 
 #### Statements
