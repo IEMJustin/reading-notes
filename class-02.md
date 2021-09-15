@@ -199,3 +199,9 @@ More advanced selectors are available that would allow one to slect elements bas
 If there is more than one rule with the same element CSS will cascade.
 This means that the last selector would take priority over the ones prior to it due to it being the last selector being processed.
 CSS also has the ability to make child elements inherit propertiess.
+
+***
+## References
+
+- JAVASCRIPT & JQUERY by Jon Duckett
+- HTML&CSS by Jon Duckett
