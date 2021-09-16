@@ -80,3 +80,10 @@ Liquid layouts allow the page to stretch and contract based on the size of the b
 - Does not control width of the sections
 - Words can become hard
 - Images may overflow over text
+
+### Pair Programming
+Pair programming consists of a Driver and a Navigator. <br>
+The driver will handle the typing and be the only one who is hands on with the mechanics of coding. <br>
+The navigator guides the driver but does not physically input into the computer. <br>
+Essentially it allows for each person to focus on either the raw input or the debugging of simultaneously. <br>
+
