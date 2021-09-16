@@ -87,3 +87,8 @@ The driver will handle the typing and be the only one who is hands on with the m
 The navigator guides the driver but does not physically input into the computer. <br>
 Essentially it allows for each person to focus on either the raw input or the debugging of simultaneously. <br>
 
+### References
+
+- JAVASCRIPT & JQUERY by Jon Duckett
+- HTML&CSS by Jon Duckett
+- https://www.codefellows.org/blog/6-reasons-for-pair-programming/
