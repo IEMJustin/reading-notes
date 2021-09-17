@@ -46,3 +46,7 @@ The properties that allow a programmer to directly affect text would be <br>
 - Those that would have the same effect on text no matter what you is used
 Some examples of typeface available would be SERIF, SANS-SERIF, MONOSPACE, CURSIVE, FANTASY. <br>
 Although there is a multitude of fonts some may be used only if paid for due to copyright. <br>
+
+### References
+- HTML&CSS By Job Duckett
+- https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d
