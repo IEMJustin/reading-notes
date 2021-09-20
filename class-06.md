@@ -53,4 +53,4 @@ If you add HTML to a page with innerHTML you need to be aware of Cross-Site Scri
 Allowing users to only type in characters they need to when supplying information assists in protecting your site. <br>
 
 ## References
-- JAVASCIPT & JQUERY 
+- JAVASCIPT & JQUERY by Jon Duckett

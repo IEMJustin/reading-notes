@@ -29,7 +29,7 @@ I was a redpatch in the Marine Corps and I am looking forward to growing within 
 
 - Reading 5 [HTML_Images;CSS_Color/Text](https://iemjustin.github.io/reading-notes/class-05)
 
-- Reading 6 [JS_Object_Literals;THE_DOM]
+- Reading 6 [JS_Object_Literals;THE_DOM](https://iemjustin.github.io/reading-notes/class-06)
 
 - Reading 7 [HTML_Tables;JS_Constructor_Functions]
 
