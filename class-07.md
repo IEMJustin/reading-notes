@@ -32,7 +32,28 @@ Examples listed below:
 - Math.floor(): Rounds number down to the nearest integer
 - Math.random(): Generates a random number between 0 (inclusive) and 1 (not inclusive)
 
-Once a Date Object has been created the following methods can be utilized:
-- getDate(): Returns the day of the month
-- setDate(): Sets the day of the month
-- getFullYear(): Returns the day
+Creating a "Date Object" will allow a programmer to set and retrieve the time and date it represents.
+A few methods of this are listed below:
+- getDate(): Returns the day of the month \(1-31)
+- getDay(): Returns the day of the week \(0-6)
+- setDate(): Sets the day of the month \(1-31)
+
+### Tables
+
+A table represents information in a grid format. <br>
+Each block in the grid would be referred to as a "table cell" <br>
+Grids allow a viewer to understand complex data by referencing information on two axes.
+
+The core of a table is made of the following
+- The Table Element \<table>
+- The Table Row \<tr> 
+- The Table Data \<td>
+
+Not all all browsers will create the lines that surround the table, so the programmer might have to input those extras via CSS. <br>
+The table itself can be manipulated to stretch across vertically and horizontally. <br>
+This feature would be referred to as spanning. <br>
+There are 3 elements that help distinguish between the main content of the table and the first and last rows. <br>
+These 3 elements also help people who use screen readers; these elements are listed below:
+- \<thead>
+- \<tbody>
+- \<tfoot>
