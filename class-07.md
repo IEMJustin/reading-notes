@@ -3,13 +3,13 @@
 ### The Dom
 
 The DOM would be the topmost object. <br>
-It repesents the webpage loaded in the current window. <br>
+It represents the webpage loaded in the current window. <br>
 
 Whenever you have a value that is a string, you can use the properties and methods of the string object on that value <br>
 Whenever accessing an array, each character within the string is given an index number. <br>
 These index numbers will start at 0. <br>
 
-There are six data types withing JavaScript:
+There are six data types within JavaScript:
 - String
 - Number
 - Boolean
@@ -21,7 +21,7 @@ Some commonly used terms:
 - Integer: A whole number (not a fraction).
 - Real Number: A number that can contain a fraction part.
 - Floating Point Number: A real number that uses decimals to represent a fraction.
-- Scientific Notation: A way of writing numbers that are too big or too small to be convieniently written in decimal form.
+- Scientific Notation: A way of writing numbers that are too big or too small to be conveniently written in decimal form.
 
 The Math Object has properties and methods for mathematical constants and function.
 Examples listed below:
