@@ -31,9 +31,9 @@ I was a redpatch in the Marine Corps and I am looking forward to growing within 
 
 - Reading 6 [JS_Object_Literals;THE_DOM](https://iemjustin.github.io/reading-notes/class-06)
 
-- Reading 7 [HTML_Tables;JS_Constructor_Functions]
+- Reading 7 [HTML_Tables;JS_Constructor_Functions](https://iemjustin.github.io/reading-notes/class-07)
 
-- Reading 8 [More_CSS_Layout]
+- Reading 8 [More_CSS_Layout](https://iemjustin.github.io/reading-notes/class-08)
 
 - Reading 9 [Forms_and_Events]
 
