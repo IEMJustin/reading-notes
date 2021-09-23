@@ -35,7 +35,7 @@ I was a redpatch in the Marine Corps and I am looking forward to growing within 
 
 - Reading 8 [More_CSS_Layout](https://iemjustin.github.io/reading-notes/class-08)
 
-- Reading 9 [Forms_and_Events]
+- Reading 9 [Forms_and_Events](https://iemjustin.github.io/reading-notes/class-09)
 
 - Reading 10 [JS_Debugging]
 
