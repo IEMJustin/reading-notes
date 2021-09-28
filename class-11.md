@@ -11,3 +11,7 @@ To get a site up on the web it will need to obtain a domain name and web hosting
 The domain name is the web address for your site. <br>
 The web hosting is what allows your website to be put be reached by being on the web server. <br>
 Many companies provide platforms for blogging, e-commerce, and email newsletters. <br>
+
+Flash is no longer supported by multiple browsers but will be an important piece of history. <br>
+## References
+- HTML&CSS by Jon Duckett
