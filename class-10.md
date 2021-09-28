@@ -19,3 +19,6 @@ Each function will have its own function context. <br>
 Eval context is text that is executed like code within internal function. <br>
 Global scope is when a variable is declared outside a function and can be used anywhere because it has global scope. <br>
 Function scope is when a variable is declared inside a function and can only be used within that function. <br>
+
+## Reference:
+- JAVASCRIPT&JQUERY by Jon Duckett
