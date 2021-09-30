@@ -37,12 +37,12 @@ I was a redpatch in the Marine Corps and I am looking forward to growing within 
 
 - Reading 9 [Forms_and_Events](https://iemjustin.github.io/reading-notes/class-09)
 
-- Reading 10 [JS_Debugging]
+- Reading 10 [JS_Debugging](https://iemjustin.github.io/reading-notes/class-10)
 
-- Reading 11 [Assorted_Topics]
+- Reading 11 [Assorted_Topics](https://iemjustin.github.io/reading-notes/class-11)
 
-- Reading 12 [Docs_for_HTML_Element_&_Chart]
+- Reading 12 [Docs_for_HTML_Element_&_Chart](https://iemjustin.github.io/reading-notes/class-12)
 
-- Reading 13 [Local_Storage]
+- Reading 13 [Local_Storage](https://iemjustin.github.io/reading-notes/class-13)
 
 - Reading 14 [CSS_Transforms/Transitions/Animations] / [Google_Learns_About_Teams]
