@@ -45,4 +45,4 @@ I was a redpatch in the Marine Corps and I am looking forward to growing within 
 
 - Reading 13 [Local_Storage](https://iemjustin.github.io/reading-notes/class-13)
 
-- Reading 14 [CSS_Transforms/Transitions/Animations] / [Google_Learns_About_Teams]
+- Reading 14 [CSS_Transforms/Transitions/Animations] / [Google_Learns_About_Teams](https://iemjustin.github.io/reading-notes/class-14b)
