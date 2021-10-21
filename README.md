@@ -4,21 +4,26 @@ Hello, my name is Justin.
 I was a redpatch in the Marine Corps and I am looking forward to growing within this career field.
 
 ## Table of Contents
-### Reading Notes 102
 
 #### Code 102 Reading Notes
 - Reading 1 [Growth](https://iemjustin.github.io/reading-notes/growth) / [Markdown](https://iemjustin.github.io/reading-notes/Learning-Markdown)
+
 - Reading 2 [Coders_Comp](https://iemjustin.github.io/reading-notes/Text-Editor)
+
 - Reading 3 [Revisions](https://iemjustin.github.io/reading-notes/revisionandcloud)
+
 - Reading 4 [Structuring_Webpage](https://iemjustin.github.io/reading-notes/structuring_webpage)
+
 - Reading 5 [Design_CSS](https://iemjustin.github.io/reading-notes/css)
+
 - Reading 6 [Design_Java](https://iemjustin.github.io/reading-notes/aboutjava)
+
 - Reading 7 [Program_Java](https://iemjustin.github.io/reading-notes/projs)
+
 - Reading 8 [Operators_Loops](https://iemjustin.github.io/reading-notes/OpsLoops)
 
+***
 ### Code 201 Reading Notes
-
-#### Course 201
 - Reading 1 [Intro_to_HTML/JavaScript](https://iemjustin.github.io/reading-notes/class-01)
 
 - Reading 2 [HTML_Text,CSS_Intro,Basic_JavaScript_Instructions](https://iemjustin.github.io/reading-notes/class-02)
@@ -46,3 +51,35 @@ I was a redpatch in the Marine Corps and I am looking forward to growing within 
 - Reading 13 [Local_Storage](https://iemjustin.github.io/reading-notes/class-13)
 
 - Reading 14 [CSS_Transforms/Transitions/Animations](https://iemjustin.github.io/reading-notes/class-14a) / [Google_Learns_About_Teams](https://iemjustin.github.io/reading-notes/class-14b)
+
+***
+### Code 301 Reading Notes
+- Reading 1 [Intro_To_React&Components]
+
+- Reading 2 [State&Props]
+
+- Reading 3 [Passing_Functions_as_Props]
+
+- Reading 4 [React&Forms]
+
+- Reading 5 [Putting_It_All_Together]
+
+- Reading 6 [NODE.JS]
+
+- Reading 7 [REST]
+
+- Reading 8 [APIs]
+
+- Reading 9 [Functional_Programming]
+
+- Reading 10 [Memory_Storage]
+
+- Reading 11 [Mongo&Mongoose]
+
+- Reading 12 [CRUD]
+
+- Reading 13 [Diversity&Inclusion]
+
+- Reading 14 [Authentication]
+
+- Reading 15
